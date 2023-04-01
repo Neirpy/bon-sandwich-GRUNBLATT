@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/illuminate/conditionable" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/composer" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/slim/psr7" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/slim/slim" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/php-di/slim-bridge" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/lbs_order_service/vendor/ramsey/uuid" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/lbs_order_service/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
